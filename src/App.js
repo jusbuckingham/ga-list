@@ -18,7 +18,7 @@ import SaleContainer from "./components/SaleContainer";
 import Job from "./components/Job";
 import JobContainer from "./components/JobContainer";
 import HomePage from "./components/HomePage";
-import PostForm from "./components/PostForm";
+import JobPostForm from "./components/JobPostForm";
 
 const PrivateRoute = ({ component: Component, ...rest}) => {
   let token = localStorage.getItem('jwtToken');
@@ -76,9 +76,10 @@ function App() {
           <Route exact path="/" component={HomePage} />
           <Route path="/sales" component={SaleContainer} />
           <Route path="/jobs" component={JobContainer} />
+          <Route path="/job" component={Job} />
           <Route path="/jobs/:id" element={<Job />} />
           <Route path="/sales/:id" element={< Sale />} />
-          <Route path="/postform" component={PostForm} />
+          <Route path="/jobpostform" component={JobPostForm} />
         </Switch>
       </div>
       <Footer />
