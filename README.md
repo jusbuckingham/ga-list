@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ga-list
 
 
@@ -54,6 +55,8 @@ This was built using the MERN stack.
 
 <!-- ## Descriptions of any unsolved problems or major hurdles your team had to overcome. -->
 
+=======
+>>>>>>> b40b0e75db528642d4e4fa4206ec0b87668b7a8c
 # GA-LIST Frontend
 
 Include a screenshot of the site in repo's README
