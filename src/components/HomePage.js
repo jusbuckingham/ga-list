@@ -65,23 +65,23 @@ class HomePage extends Component {
                                 <div>
                                     <h4></h4>
                                     <ul id="container2">
-                                        <li><a href="http://localhost:3001/sales">cars</a></li>
-                                        <li><a href="http://localhost:3001/sales">bike</a></li>
-                                        <li><a href="http://localhost:3001/sales">cell phones</a></li>
-                                        <li><a href="http://localhost:3001/sales">computer parts</a></li>
-                                        <li><a href="http://localhost:3001/sales">furniture</a></li>
-                                        <li><a href="http://localhost:3001/sales">general</a></li>
-                                        <li><a href="http://localhost:3001/sales">materials</a></li>
-                                        <li><a href="http://localhost:3001/sales">jewelry</a></li>
-                                        <li><a href="http://localhost:3001/sales">music</a></li>
-                                        <li><a href="http://localhost:3001/sales">sporting</a></li>
-                                        <li><a href="http://localhost:3001/sales">household</a></li>
-                                        <li><a href="http://localhost:3001/sales">video</a></li>
-                                        <li><a href="http://localhost:3001/sales">toys</a></li>
-                                        <li><a href="http://localhost:3001/sales">garage sale</a></li>
-                                        <li><a href="http://localhost:3001/sales">electronics</a></li>
-                                        <li><a href="http://localhost:3001/sales">tickets</a></li>
-                                        <li><a href="http://localhost:3001/sales">farm</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">cars</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">bike</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">cell phones</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">computer parts</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">furniture</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">general</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">materials</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">jewelry</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">music</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">sporting</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">household</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">video</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">toys</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">garage sale</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">electronics</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">tickets</a></li>
+                                        <li><a href="https://ga-list.herokuapp.com/sales">farm</a></li>
 
 
                                     </ul>
@@ -121,23 +121,23 @@ class HomePage extends Component {
                             <div>
                                 <h4></h4>
                                 <ul id="container2">
-                                    <li><a href="http://localhost:3001/jobs">accounting</a></li>
-                                    <li><a href="http://localhost:3001/jobs">admin</a></li>
-                                    <li><a href="http://localhost:3001/jobs">software</a></li>
-                                    <li><a href="http://localhost:3001/jobs">food</a></li>
-                                    <li><a href="http://localhost:3001/jobs">media</a></li>
-                                    <li><a href="http://localhost:3001/jobs">transport</a></li>
-                                    <li><a href="http://localhost:3001/jobs">security</a></li>
-                                    <li><a href="http://localhost:3001/jobs">real estate</a></li>
-                                    <li><a href="http://localhost:3001/jobs">education</a></li>
-                                    <li><a href="http://localhost:3001/jobs">government</a></li>
-                                    <li><a href="http://localhost:3001/jobs">skilled trade</a></li>
-                                    <li><a href="http://localhost:3001/jobs">nonprofit sector</a></li>
-                                    <li><a href="http://localhost:3001/jobs">web</a></li>
-                                    <li><a href="http://localhost:3001/jobs">arch</a></li>
-                                    <li><a href="http://localhost:3001/jobs">general labor</a></li>
-                                    <li><a href="http://localhost:3001/jobs">wholesale</a></li>
-                                    <li><a href="http://localhost:3001/jobs">fitness</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">accounting</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">admin</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">software</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">food</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">media</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">transport</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">security</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">real estate</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">education</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">government</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">skilled trade</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">nonprofit sector</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">web</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">arch</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">general labor</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">wholesale</a></li>
+                                    <li><a href="https://ga-list.herokuapp.com/salesjobs">fitness</a></li>
 
                                 </ul>
                                 {/* <JobContainer /> */}

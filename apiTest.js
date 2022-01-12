@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-axios.get('http://localhost:3000/sales')
+axios.get('https://ga-list-api.herokuapp.com/sales')
         .then((response) => {
             console.log(response.data)
             

@@ -16,7 +16,7 @@ class JobContainer extends Component {
     }
 
     componentDidMount() {
-        axios.get('http://localhost:3000/jobs')
+        axios.get('https://ga-list-api.herokuapp.com/jobs')
             .then((response) => {
                 console.log(response.data);
                 this.setState({
